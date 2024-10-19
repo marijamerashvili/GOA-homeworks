@@ -8,6 +8,7 @@ print(f"ჩვენი პირველი ჯამი და კოდი")
 print(f"{5+5}")
 
 #saxlis kvadrati
+
 speed(11)
 width(16)
 color("purple")
