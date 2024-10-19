@@ -1,4 +1,4 @@
-from turtle import *
+from turtle import*
 
 #5 + 5 შეკრების ჯამი
 print(f"ჩვენი პირველი ჯამი და კოდი: {5+5}")
@@ -102,3 +102,5 @@ forward(40)
 
 
 exitonclick()
+
+
