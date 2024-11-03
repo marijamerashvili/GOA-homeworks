@@ -1,33 +1,27 @@
 
 
-name="mariam"
-sirname="jamerashvili"
-age=12
-hoby="programing"
-cuntry="georgia"
 
-print(name)
-print(sirname)
-print(age)
-print(hoby)
-print(cuntry)
 
-#ცვლადის შექმნა და ერთმანეთზე დამატება
 
-toys=15
-clothes=21
-print(toys + clothes)
 
-#მათემატიკურ ოპერაციებზე 10 მაგალითი
+print("Data popkhaze")
+print("ნიკოლოზ სეფისკვერაზე")
+print("Nikoloz lobidze")
 
-print(21 + 9)
-print(50 + 50)
-print(20 + 1)
-print(7 + 40)
-print(2 - 1)
-print(60 - 15)
-print(5 * 5)
-print(100 * 100)
-print(60/3)
-print(100/2)
+print("ნიკა კუბლაშვილი")
+print("barbare shaverdashvili")
+print("Cotne Gujabidze")
+print("Mchedlidze lizi")
+print("სალომე გუგუსიანი")
+print("ირაკლი კვინჩია")
+print("Giorgi Gagua")
+print("Dachi Alania")
+print("Giorgi Zhorzholiani")
+print("Mari Gogebashvili")
+print("დავით დევაძე")
+
+print("დემეტრე გოთუა")
+
+#facebook-ზე დამეგობრებული ...
+
 
