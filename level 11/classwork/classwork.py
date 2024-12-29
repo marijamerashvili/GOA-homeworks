@@ -14,6 +14,17 @@ print(33>22)
 print(9>8)
 
 #მეტობა
+print(8<10)
+print(5<30)
+print(4<10)
+print(10<20)
+print(30<40)
+print(40<50)
+print(50<60)
+print(60<70)
+print(70<80)
+print(80<90)
+
 #არ არის ტოლი (!=)
 print(60!=70)
 print(70!=80)
